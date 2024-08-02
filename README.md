@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a passionate engineer and developer with a str
 - Tips and strategies for mastering C++ and parallel computing.
 
 ### 📫 How to Reach Me:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter][(https://x.com/ogbidaniel)]
+- [LinkedIn](https://linkedin.com/in/daniel-ogbuigwe/)
+- [Twitter](https://x.com/ogbidaniel)
 
 ### 😄 Pronouns:
 - He/Him
