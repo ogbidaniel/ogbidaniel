@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate engineer and developer with a str
 
 ### 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter][(https://twitter.com/yourprofile)](https://x.com/ogbidaniel)
+- [Twitter][(https://x.com/ogbidaniel)]
 
 ### 😄 Pronouns:
 - He/Him
