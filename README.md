@@ -20,10 +20,6 @@ Welcome to my GitHub profile! I'm a passionate engineer and developer with a str
 - Advanced CUDA programming and GPU optimization strategies.
 - Developing effective educational content for mathematics, machine learning, and programming.
 
-### 💬 Ask Me About:
-- My experiences in combining mechanical engineering principles with computer science.
-- Tips and strategies for mastering C++ and parallel computing.
-
 ### 📫 How to Reach Me:
 - [LinkedIn](https://linkedin.com/in/daniel-ogbuigwe/)
 - [Twitter](https://x.com/ogbidaniel)
