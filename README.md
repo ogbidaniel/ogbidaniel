@@ -24,9 +24,6 @@ Welcome to my GitHub profile! I'm a passionate engineer and developer with a str
 - [LinkedIn](https://linkedin.com/in/daniel-ogbuigwe/)
 - [Twitter](https://x.com/ogbidaniel)
 
-### 😄 Pronouns:
-- He/Him
-
 ### ⚡ Fun Fact:
 - I enjoy singing, rapping, and recording music as a hobbyist. It's a great way to unwind and spark creativity!
 - I love visual story telling through image generation, videos ...
