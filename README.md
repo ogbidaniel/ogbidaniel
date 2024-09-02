@@ -1,18 +1,18 @@
-## Hello, I'm Daniel Ogbuigwe 👋
+## How fa,
 
-Welcome to my GitHub profile! I'm a passionate engineer and developer with a strong background in both mechanical engineering and computer science. Currently, I’m focused on learning solutions in sports computer vision and parallel computing.
+My name is Daniel Ogbuigwe but you can call me Ogbi. I'm in love with science, technology and mathematics. I often work with Python (data analysis and machine learning) but I enjoy building games, apps and learning.
 
 ### 🔭 Currently Working On:
 - Opening access to my custom Speech Recognition model for the Ika language.
 - Creating a research platform for university students in Nigeria.
-
+- Breast Cancer Recurrence prediction and Cervical Cancer prediction
 ### 🌱 Learning:
-- Advanced techniques in memory programming and parallel computing.
+- C++ for game development.
 - Enhancing my proficiency in C++ for high-performance computing and GPU programming.
 - Mathematical foundations (Linear Algebra) for and computer science.
 
 ### 👯 Looking to Collaborate On:
-- Projects related to Fine tuning custom models, computer vision for sports and entertainment, building web applications.
+- Projects related to Fine tuning custom models, computer vision for sports and entertainment, building web applications using Python.
 
 ### 🤔 Seeking Help With:
 - Running models locally, beginner CUDA programming, GPUs and computer graphics.
@@ -26,5 +26,4 @@ Welcome to my GitHub profile! I'm a passionate engineer and developer with a str
 - I enjoy singing, rapping, and recording music as a hobbyist. It's a great way to unwind and spark creativity!
 - ❤️ Rainbow 6 ...
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions. Thanks for visiting!
-
+Feel free to explore my repositories and reach out if you want to offer advice and would like to collaborate or have any questions. Cherio!
