@@ -4,11 +4,9 @@ My name is Daniel Ogbuigwe but you can call me Ogbi. I'm in love with science, t
 
 ### 🔭 Currently Working On:
 - Opening access to my custom Speech Recognition model for the Ika language.
-- Creating a research platform for university students in Nigeria.
-- Breast Cancer Recurrence prediction and Cervical Cancer prediction
 ### 🌱 Learning:
-- C++ for game development.
-- Enhancing my proficiency in C++ for high-performance computing and GPU programming.
+- C++
+- How to launcha and scale ASR and TTS inference applications.
 - Mathematical foundations (Linear Algebra) for and computer science.
 
 ### 👯 Looking to Collaborate On:
