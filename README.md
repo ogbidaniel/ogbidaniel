@@ -5,8 +5,8 @@ My name is Daniel Ogbuigwe but you can call me Ogbi. I'm in love with science, t
 ### 🔭 Currently Working On:
 - Opening access to my custom Speech Recognition model for the Ika language.
 ### 🌱 Learning:
-- C++
-- How to launcha and scale ASR and TTS inference applications.
+- C/C++
+- How to launch and scale ASR and TTS inference applications.
 - Mathematical foundations (Linear Algebra) for and computer science.
 
 ### 👯 Looking to Collaborate On:
