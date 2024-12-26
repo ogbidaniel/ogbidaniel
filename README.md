@@ -1,27 +1,18 @@
-## How fa,
+## Hi,
 
-My name is Daniel Ogbuigwe but you can call me Ogbi. I'm in love with science, technology and mathematics. I often work with Python (data analysis and machine learning) but I enjoy building games, apps and learning.
+Computer Science Grad student at PV. Interested in Drones, Games, VR and AI.
 
 ### 🔭 Currently Working On:
-- Opening access to my custom Speech Recognition model for the Ika language.
+- Speech Recognition application for the Ika language.
 ### 🌱 Learning:
 - C/C++
-- How to launch and scale ASR and TTS inference applications.
-- Mathematical foundations (Linear Algebra) for and computer science.
-
-### 👯 Looking to Collaborate On:
-- Projects related to Fine tuning custom models, computer vision for sports and entertainment, building web applications using Python.
+- Adruino.
 
 ### 🤔 Seeking Help With:
-- Running models locally, beginner CUDA programming, GPUs and computer graphics.
-- Developing educational content for mathematics, engineering and computer science.
+- CUDA programming, GPUs and computer graphics.
 
 ### 📫 How to Reach Me:
 - [LinkedIn](https://linkedin.com/in/daniel-ogbuigwe/)
 - [Twitter](https://x.com/ogbidaniel)
 
-### ⚡ Me:
-- I enjoy singing, rapping, and recording music as a hobbyist. It's a great way to unwind and spark creativity!
-- ❤️ Rainbow 6 ...
-
-Feel free to explore my repositories and reach out if you want to offer advice and would like to collaborate or have any questions. Cherio!
+Feel free to explore my repositories and reach out if you want to offer advice and would like to collaborate or have any questions. Cheers!
