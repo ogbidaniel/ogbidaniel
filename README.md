@@ -1,4 +1,4 @@
-## Hi,
+## Hello,
 
 Computer Science Grad student at PV. Interested in Drones, Games, VR and AI.
 
@@ -6,10 +6,10 @@ Computer Science Grad student at PV. Interested in Drones, Games, VR and AI.
 - Speech Recognition application for the Ika language.
 ### 🌱 Learning:
 - C/C++
-- Adruino.
+- Programming Massively Parallel Processors.
 
 ### 🤔 Seeking Help With:
-- CUDA programming, GPUs and computer graphics.
+- CUDA programming, GPUs.
 
 ### 📫 How to Reach Me:
 - [LinkedIn](https://linkedin.com/in/daniel-ogbuigwe/)
