@@ -1,35 +1,49 @@
-## Hello,
+# 👋 Hi, I'm Daniel Ogbuigwe
 
-Computer Science Grad student at PV. Interested in Drones, Games, and AI.
-
-### 🔭 Currently Working On:
-- Speech Recognition application for the Ika language.
-### 🌱 Learning:
-- C/C++
-- Programming Massively Parallel Processors.
-
-### 🤔 Seeking Help With:
-- CUDA programming, GPUs, Computer Graphics, Parallel Computing and Software Engineering.
-
-### 📫 How to Reach Me:
-- [LinkedIn](https://linkedin.com/in/daniel-ogbuigwe/)
-- [Twitter](https://x.com/ogbidaniel)
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danielogbuigwe) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ogbidaniel) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ogbidaniel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ogbidaniel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ogbidaniel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ogbidaniel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎓 **Graduate Research Assistant | M.S. Computer Science (Dec 2026)** @ Prairie View A&M University  
+🔍 **Machine Learning Engineer & Computer Vision Specialist**  
+I build efficient ML systems for computer vision and speech recognition, with a passion for precision agriculture and low-resource language AI. Skilled in **PyTorch**, **YOLOv8**, **C++**, **CUDA**, and deploying scalable solutions (e.g., Flask, AWS). Published in **IEEE Access (under review)** and **arXiv**.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ogbidaniel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+| Project | Description | Tech Stack | Demo |
+|---------|-------------|------------|------|
+| [**Thermotolerance in Dairy Cattle**](https://github.com/ogbidaniel/thermotolerance-dairy) | Classified livestock behavior using YOLOv8 & SENets (96% accuracy) on 38,000 videos for heat stress detection. | PyTorch, YOLOv8, Flask | [📽️ Video](#) |
+| [**Ika ASR for Low-Resource Languages**](https://github.com/ogbidaniel/ika-asr) | Fine-tuned Meta’s MMS for Ika speech recognition (0.54 WER) using Bible transcriptions. | Python, Nvidia NeMo, AWS SageMaker | [🎙️ Audio Demo](#) |
+| [**WasteWiz: Smart Waste Management**](https://github.com/ogbidaniel/wastewiz) | 2nd place at Prairie View Ignite Hackathon. Real-time waste classification with YOLOv8 and Flask API. | YOLOv8, Flask, JavaScript | [🖼️ Images](#) |
+| [**Simple Graphics Renderer**](https://github.com/ogbidaniel/graphics-renderer) | Custom C++ rendering engine with rasterization and shading, no external libraries. | C++, CUDA | [🎥 Demo](#) |
+| [**Chess Engine (In Progress)**](https://github.com/ogbidaniel/chess-engine) | C-based chess engine with minimax and pruning optimizations. | C, Algorithms | [🚧 WIP](#) |
+
+---
+
+## 🛠️ Skills
+- **Languages**: Python, C++, CUDA, Bash, SQL, HTML/CSS/JS  
+- **Frameworks**: PyTorch, TensorFlow, Flask, React, Nvidia NeMo  
+- **Domains**: Computer Vision, Speech Recognition, Precision Agriculture, Multimodal AI  
+- **Tools**: AWS SageMaker, Docker, Git, Linux  
+
+---
+
+## 📜 Publications
+- **Thermotolerance in Dairy Cattle** (IEEE Access, under review) – YOLOv8-based CV for livestock behavior analysis.  
+- **ASR for Low-Resource Languages** (arXiv) – Fine-tuned MMS for Ika language, achieving 0.54 WER.
+
+---
+
+## 🌱 Currently Learning
+- Advanced C++ for high-performance computing  
+- GPU optimization with CUDA for parallel processing  
+
+---
+
+## 📫 Connect with Me
+- 📧 **Email**: ogbuigwed@gmail.com  
+- 🔗 **[LinkedIn](https://linkedin.com/in/daniel-ogbuigwe)** | **[X](https://x.com/ogbidaniel)** | **[Medium](https://medium.com/@ogbidaniel)**  
+- 🏆 2nd Place, Prairie View Ignite Hackathon (WasteWiz, 2025)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ogbidaniel&color=blue)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogbidaniel&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogbidaniel&layout=compact&theme=radical)
