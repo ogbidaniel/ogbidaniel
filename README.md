@@ -33,7 +33,7 @@ I build efficient ML systems for computer vision and speech recognition, with a 
 
 ## 🌱 Currently Learning
 - Advanced C++ for high-performance computing  
-- GPU optimization with CUDA for parallel processing  
+- Distributed LLM inference on Nvidia GPUs with CUDA
 
 ---
 
