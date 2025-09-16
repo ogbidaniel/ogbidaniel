@@ -10,7 +10,7 @@ I build efficient ML systems for computer vision and speech recognition, with a 
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
 | [**Thermotolerance in Dairy Cattle**](https://github.com/ogbidaniel/thermotolerance-dairy) | Classified livestock behavior using YOLOv8 & SENets (96% accuracy) on 38,000 videos for heat stress detection. | PyTorch, YOLOv8, Flask | [📽️ Video](#) |
-| [**Ika ASR for Low-Resource Languages**](https://github.com/ogbidaniel/ika-asr) | Fine-tuned Meta’s MMS for Ika speech recognition (0.54 WER) using Bible transcriptions. | Python, Nvidia NeMo, AWS SageMaker | [🎙️ Audio Demo](#) |
+| [**Ika ASR for Low-Resource Languages**](https://github.com/ogbidaniel/Wav2VecNigeria) | Fine-tuned Meta’s MMS for Ika speech recognition (0.54 WER) using Bible transcriptions. | Python, Nvidia NeMo, AWS SageMaker | [🎙️ Audio Demo](#) |
 | [**WasteWiz: Smart Waste Management**](https://github.com/ogbidaniel/wastewiz) | 2nd place at Prairie View Ignite Hackathon. Real-time waste classification with YOLOv8 and Flask API. | YOLOv8, Flask, JavaScript | [🖼️ Images](#) |
 | [**Simple Graphics Renderer**](https://github.com/ogbidaniel/graphics-renderer) | Custom C++ rendering engine with rasterization and shading, no external libraries. | C++, CUDA | [🎥 Demo](#) |
 | [**Chess Engine (In Progress)**](https://github.com/ogbidaniel/chess-engine) | C-based chess engine with minimax and pruning optimizations. | C, Algorithms | [🚧 WIP](#) |
