@@ -2,7 +2,7 @@
 
 🎓 **Graduate Research Assistant | M.S. Computer Science (Dec 2026)** @ Prairie View A&M University  
 🔍 **Machine Learning Engineer & Computer Vision Specialist**  
-I build efficient ML systems for computer vision and speech recognition, with a passion for precision agriculture and low-resource language AI. Skilled in **PyTorch**, **YOLOv8**, **C++**, **CUDA**, and deploying scalable solutions (e.g., Flask, AWS). Published in **IEEE Access (under review)** and **arXiv**.  
+I build efficient ML systems for computer vision and speech recognition, with a passion for precision agriculture and low-resource language AI. Skilled in **PyTorch**, **YOLOv8**, **C++**, and deploying scalable solutions (e.g., Flask, AWS). Published in **IEEE Access (under review)** and **arXiv**.  
 
 ---
 
@@ -10,18 +10,15 @@ I build efficient ML systems for computer vision and speech recognition, with a 
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
 | [**Thermotolerance in Dairy Cattle**](https://github.com/ogbidaniel/thermotolerance-dairy) | Classified livestock behavior using YOLOv8 & SENets (96% accuracy) on 38,000 videos for heat stress detection. | PyTorch, YOLOv8, Flask | [📽️ Video](#) |
-| [**Ika ASR for Low-Resource Languages**](https://github.com/ogbidaniel/Wav2VecNigeria) | Fine-tuned Meta’s MMS for Ika speech recognition (0.54 WER) using Bible transcriptions. | Python, Nvidia NeMo, AWS SageMaker | [🎙️ Audio Demo](#) |
-| [**WasteWiz: Smart Waste Management**](https://github.com/ogbidaniel/wastewiz) | 2nd place at Prairie View Ignite Hackathon. Real-time waste classification with YOLOv8 and Flask API. | YOLOv8, Flask, JavaScript | [🖼️ Images](#) |
-| [**Simple Graphics Renderer**](https://github.com/ogbidaniel/graphics-renderer) | Custom C++ rendering engine with rasterization and shading, no external libraries. | C++, CUDA | [🎥 Demo](#) |
-| [**Chess Engine (In Progress)**](https://github.com/ogbidaniel/chess-engine) | C-based chess engine with minimax and pruning optimizations. | C, Algorithms | [🚧 WIP](#) |
+| [**Speak Ika**](https://github.com/ogbidaniel/speak-ika) | My way of giving back to the community and people that raised me. I deployed the first ever speech recognition system for the Ika language. | T3 stack, Python, Nvidia NeMo, AWS SageMaker | [🎙️ Audio Demo](#) |
 
 ---
 
 ## 🛠️ Skills
-- **Languages**: Python, C++, CUDA, Bash, SQL, HTML/CSS/JS  
+- **Languages**: Python, C++, CUDA, Bash, SQL, HTML/CSS/JS/TS  
 - **Frameworks**: PyTorch, TensorFlow, Flask, React, Nvidia NeMo  
 - **Domains**: Computer Vision, Speech Recognition, Precision Agriculture, Multimodal AI  
-- **Tools**: AWS SageMaker, Docker, Git, Linux  
+- **Tools**: AWS SageMaker, Docker, Git, Linux , Vercel 
 
 ---
 
@@ -32,8 +29,8 @@ I build efficient ML systems for computer vision and speech recognition, with a 
 ---
 
 ## 🌱 Currently Learning
-- Advanced C++ for high-performance computing  
-- Distributed LLM inference on Nvidia GPUs with CUDA
+- Building and deploying as many applications as I can  
+- Distributed LLM inference to serve a large number of customers
 
 ---
 
