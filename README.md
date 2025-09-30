@@ -10,7 +10,7 @@ I build efficient ML systems for computer vision and speech recognition, with a 
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
 | [**Thermotolerance in Dairy Cattle**](https://github.com/ogbidaniel/thermotolerance-dairy) | Classified livestock behavior using YOLOv8 & SENets (96% accuracy) on 38,000 videos for heat stress detection. | PyTorch, YOLOv8, Flask | [📽️ Video](#) |
-| [**Speak Ika**](https://github.com/ogbidaniel/speak-ika) | My way of giving back to the community and people that raised me. I deployed the first ever speech recognition system for the Ika language. | T3 stack, Python, Nvidia NeMo, AWS SageMaker | [🎙️ Audio Demo](#) |
+| [**Speak Ika**](https://github.com/ogbidaniel/speak-ika) | My way of giving back to the community and people that raised me. I deployed the first ever speech recognition system for the Ika language. | T3 stack, Python, Nvidia NeMo, AWS SageMaker | [🎙️ Audio Demo](https://speak-ika.vercel.app) |
 
 ---
 
