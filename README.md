@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Ogbuigwe
+# I'm Daniel
 
 🎓 **Graduate Research Assistant | M.S. Computer Science (Dec 2026)** @ Prairie View A&M University  
 🔍 **Machine Learning Engineer & Computer Vision Specialist**  
